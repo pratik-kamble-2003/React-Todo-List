@@ -12,6 +12,7 @@ This project helps users manage daily tasks by adding, completing, and deleting 
 - Delete tasks
 - Simple and user-friendly interface
 - Built with reusable React components
+- You can also design the page on your own by using css
 
 ---
 
